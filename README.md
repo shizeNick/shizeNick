@@ -1,5 +1,5 @@
-- I’m *@rainvi*
-- I like vim/neovim and everything which is open-source
+I’m *@rainvi*.
+I like vim/neovim and everything which is open-source.
 
 *languages (machine)*:
   _good skills in:_
