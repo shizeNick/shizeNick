@@ -7,6 +7,7 @@ I like vim/neovim and everything which is open-source.
   - java
   - python
   - lua
+
  _currently learning better_
   - cpp
   - c
