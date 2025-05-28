@@ -1,7 +1,7 @@
 I’m *@rainvi*.
 I like vim/neovim and everything which is open-source.
 
-*languages (machine)*:
+*languages (machine)*:\n
   _good skills in:_
   - java
   - python
