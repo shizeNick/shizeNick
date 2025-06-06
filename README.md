@@ -1,4 +1,4 @@
-I’m *@rainvi*.
+I’m *@ShizeNick*.
 I like vim/neovim and everything which is open-source.
 
 *languages (machine)*:
