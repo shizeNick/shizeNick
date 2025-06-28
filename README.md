@@ -5,11 +5,10 @@ I like vim/neovim and everything which is open-source.
 
  _good skills in:_
   - java
-  - python
   - lua
+  - python
 
  _currently learning better:_
-  - cpp
   - c
   - tex
 
