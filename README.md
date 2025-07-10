@@ -6,10 +6,10 @@ I like vim/neovim and everything which is open-source.
  _good skills in:_
   - java
   - lua
-  - python
+  - c
 
  _currently learning better:_
-  - c
+  - python
   - tex
 
 *languages (human)*:
