@@ -1,7 +1,7 @@
 I’m *@ShizeNick*.
-I like vim/neovim and everything which is open-source.
+I like vim, Linux and everything which is open-source.
 I'm studying digital forensics and CyberSec.
-I like coding in C.
+I like coding in C and other Low Level Languages.
 
 *languages (machine)*:
 
